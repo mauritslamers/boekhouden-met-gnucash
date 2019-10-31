@@ -3,6 +3,7 @@ layout: page
 title: Rekeningen aanmaken
 permalink: /accounts_setup/
 parent: Opzetten
+nav_order: 1
 has_children: yes
 ---
 
@@ -14,18 +15,18 @@ beste om dit met de hand te doen. Je hebt dan alle rekeningen een keer gezien
 en je kunt je een idee gaan vormen over waar deze rekeningen voor dienen.
 
 Als je al vaker zo'n boekhouding hebt gedaan, of je hebt haast,
-kun je dit rekeningschema ook importeren. Ga daarvoor naar [Snel opzetten](/quick_setup).
+kun je dit rekeningschema ook importeren. Ga daarvoor naar [Snel opzetten]({{ site.baseurl}}/quick_setup).
 
 Kies annuleren bij de wizard om het invoeren handmatig te kunnen doen.
 
 Je komt nu op het lege tabblad **Rekeningen**. Kies het menu *Acties* en daarna
 *Nieuwe rekening...*.
 
-![Menu-actie voor nieuwe rekening](/assets/new_account_nl.png)
+![Menu-actie voor nieuwe rekening]({{ site.baseurl}}/assets/new_account_nl.png)
 
 Je krijgt dan het volgende dialoogvenster:
 
-![Dialoogvenster voor een nieuwe rekening](/assets/new_account_dialog_nl.png)
+![Dialoogvenster voor een nieuwe rekening]({{ site.baseurl}}/assets/new_account_dialog_nl.png)
 
 ### Grootboekrekeningen aanmaken.
 Voer de naam in van de rekening, het rekeningnummer, rekeningsoort en hoofdrekening.
@@ -56,7 +57,7 @@ deze rekeningsoorten zijn, omdat deze kennis later van pas komt bij het maken va
 * **Kosten**: Rekening waarop kosten bijgehouden kunnen worden
 * **Opbrengsten**: Rekening waarop de opbrengsten / omzet wordt bijgehouden.
 
-Ga na het aanmaken van de rekeningen verder met het [invoeren van de BTW-tarieven](/vat-tariffs).
+Ga na het aanmaken van de rekeningen verder met het [invoeren van de BTW-tarieven]({{ site.baseurl}}/vat-tariffs).
 
 ##### Rekeningenoverzicht
 

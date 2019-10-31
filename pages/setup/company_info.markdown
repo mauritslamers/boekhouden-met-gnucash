@@ -14,7 +14,7 @@ Klik op Bestand en kies dan de optie "Eigenschappen". Je krijgt nu het dialoogve
 Je krijgt nu het volgende dialoogvenster te zien. Als niet alle opties te zien zijn,
 vergroot dan het dialoogvenster.
 
-![Bedrijfsinformatie invoeren](/assets/company_info.png)
+![Bedrijfsinformatie invoeren]({{ site.baseurl}}/assets/company_info.png)
 
 Vul nu de volgende opties in en klik daarna op OK.
 

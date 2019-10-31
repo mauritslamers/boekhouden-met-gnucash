@@ -18,4 +18,4 @@ Schakel vervolgens naar het tabblad MKB en vink de opties "Extra knoppen inschak
 "inclusief belasting" aan. Kies bij Rapport om af te drukken "Belastingfactuur". Zo krijg je
 de juiste indeling van verkoopfacturen inclusief alle verplichte gegevens.
 
-![GnuCash instellingen](/assets/gnucash_settings.png)
+![GnuCash instellingen]({{ site.baseurl}}/assets/gnucash_settings.png)

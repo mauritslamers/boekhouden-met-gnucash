@@ -21,7 +21,7 @@ automatisch opslaag vind je onder Windows of Linux onder menu Bewerken, optie Vo
 onder macOS onder het applicatie-menu en dan optie Voorkeuren. Kies daar voor
 het tabblad Algemeen.
 
-![Tabblad algemeen van de programmavoorkeuren](/assets/gnucash_general_settings.png)
+![Tabblad algemeen van de programmavoorkeuren]({{ site.baseurl}}/assets/gnucash_general_settings.png)
 
 ## Backups
 Het is cruciaal om een reserve-kopie te hebben van je boekhouding. Zorg er dus

@@ -12,16 +12,16 @@ Nu de rekeningen aangemaakt zijn, is het tijd om de BTW-tarieven toe te voegen.
 
 We gaan daarvoor naar het menu MKB en kiezen daar voor de optie "BTW-tarieven".
 
-![Menu MKB / BTW-tarieven](/assets/menu_mkb_btw.png)
+![Menu MKB / BTW-tarieven]({{ site.baseurl}}/assets/menu_mkb_btw.png)
 
 Zodra je daar op geklikt hebt krijg je het volgende dialoogvenster:
 
-![BTW-tarieven-dialoog-venster](/assets/btw_dialog.png)
+![BTW-tarieven-dialoog-venster]({{ site.baseurl}}/assets/btw_dialog.png)
 
 Maak in dit venster eerst een nieuw belastingtarief aan door op de knop "Nieuw"
 te klikken onder "Belastingtarieven". Er wordt een nieuw dialoogvenster getoond:
 
-![BTW-tarief aanmaken](/assets/new_btw_tariff_dialog.png)
+![BTW-tarief aanmaken]({{ site.baseurl}}/assets/new_btw_tariff_dialog.png)
 
 Maak nu voor elk van de onderstaande tarieven een BTW-tarief aan.
 
