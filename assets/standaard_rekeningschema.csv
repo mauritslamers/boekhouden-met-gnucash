@@ -1,0 +1,32 @@
+type,volledige_naam,naam,goed-code,omschrijving,kleur,toelichting,goed-symbool,goed-naamruimte,verborgen,BTW,aggregatie
+ASSET,010 Bedrijfsgebouwen en terreinen,010 Bedrijfsgebouwen en terreinen,010,Bedrijfsgebouwen en terreinen,,,EUR,CURRENCY,F,F,F
+ASSET,020 Machines en installaties,020 Machines en installaties,020,Machines en installaties,,,EUR,CURRENCY,F,F,F
+EQUITY,040 Eigen vermogen,040 Eigen vermogen,040,Eigen vermogen,,,EUR,CURRENCY,F,F,F
+EQUITY,041 Privé-stortingen,041 Privé-stortingen,041,Privé stortingen,,,EUR,CURRENCY,F,F,F
+EQUITY,042 Privé-onttrekkingen,042 Privé-onttrekkingen,042,Privé-onttrekkingen,,,EUR,CURRENCY,F,F,F
+EQUITY,070 Schulden,070 Schulden,070,Schulden,,,EUR,CURRENCY,F,F,F
+CASH,100 Kas,100 Kas,100,Kas,,,EUR,CURRENCY,F,F,F
+BANK,110 Bank,110 Bank,110,Bank,,,EUR,CURRENCY,F,F,F
+RECEIVABLE,130 Debiteuren,130 Debiteuren,130,Debiteuren,,,EUR,CURRENCY,F,F,F
+PAYABLE,140 Crediteuren,140 Crediteuren,140,Crediteuren,,,EUR,CURRENCY,F,F,F
+ASSET,180 Vordering omzetbelasting,180 Vordering omzetbelasting,180,,,,EUR,CURRENCY,F,F,F
+LIABILITY,185 Schuld omzetbelasting 21%,185 Schuld omzetbelasting 21%,185,,,,EUR,CURRENCY,F,F,F
+LIABILITY,186 Schuld omzetbelasting 6%,186 Schuld omzetbelasting 6%,186,,,,EUR,CURRENCY,F,F,F
+LIABILITY,187 Schuld omzetbelasting overige tarieven (geen 0%),187 Schuld omzetbelasting overige tarieven (geen 0%),187,,,,EUR,CURRENCY,F,F,F
+LIABILITY,188 Schuld omzetbelasting 0%,188 Schuld omzetbelasting 0%,188,,,,EUR,CURRENCY,F,F,F
+LIABILITY,189 Schuld omzetbelasting naar mij verlegd,189 Schuld omzetbelasting naar mij verlegd,189,,,,EUR,CURRENCY,F,F,F
+LIABILITY,190 Schuld omzetbelasting 9%,190 Schuld omzetbelasting 9%,190,,,,EUR,CURRENCY,F,F,F
+EXPENSE,400 Inkoopprijs materialen en voorraad,400 Inkoopprijs materialen en voorraad,400,,,,EUR,CURRENCY,F,F,F
+EXPENSE,410 Kosten van uitbesteed werk,410 Kosten van uitbesteed werk,410,,,,EUR,CURRENCY,F,F,F
+EXPENSE,430 Afschrijvingskosten gebouwen en terreinen,430 Afschrijvingskosten gebouwen en terreinen,430,,,,EUR,CURRENCY,F,F,F
+EXPENSE,440 Afschrijvingskosten machines en installaties,440 Afschrijvingskosten machines en installaties,440,,,,EUR,CURRENCY,F,F,F
+EXPENSE,450 Auto- en transportkosten,450 Auto- en transportkosten,450,,,,EUR,CURRENCY,F,F,F
+EXPENSE,460 Huisvestingskosten,460 Huisvestingskosten,460,,,,EUR,CURRENCY,F,F,F
+EXPENSE,470 Onderhoudskosten,470 Onderhoudskosten,470,,,,EUR,CURRENCY,F,F,F
+EXPENSE,480 Verkoopkosten + reclame + marketing,480 Verkoopkosten + reclame + marketing,480,,,,EUR,CURRENCY,F,F,F
+EXPENSE,490 Andere / overige kosten,490 Andere / overige kosten,490,,,,EUR,CURRENCY,F,F,F
+EXPENSE,495 Rente + bankkosten,495 Rente + bankkosten,495,,,,EUR,CURRENCY,F,F,F
+ASSET,700 Voorraden,700 Voorraden,700,,,,EUR,CURRENCY,F,F,F
+INCOME,800 Omzet 21% omzetbelasting,800 Omzet 21% omzetbelasting,800,,,,EUR,CURRENCY,F,F,F
+INCOME,801 Omzet 9% omzetbelasting,801 Omzet 9% omzetbelasting,801,,,,EUR,CURRENCY,F,F,F
+INCOME,802 Omzet 0% omzetbelasting,802 Omzet 0% omzetbelasting,802,,,,EUR,CURRENCY,F,F,F
