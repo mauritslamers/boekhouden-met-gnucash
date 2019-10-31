@@ -25,10 +25,10 @@ Deze handleiding heeft mede tot doel de inhoud van de Accoo-handleiding te bewar
 bij te werken, en tegelijkertijd deze aan te vullen met praktische zaken.
 
 Als dit de eerste keer is dat je iets met boekhouden doet, of je wil je kennis
-nog eens opfrissen, lees dan de [korte introductie](/double_bookkeeping) over het hoe en waarom van het
+nog eens opfrissen, lees dan de [korte introductie]({{ site.baseurl}}/double_bookkeeping) over het hoe en waarom van het
 zogeheten dubbele boekhoudsysteem.
 
-Als je liever direct aan de slag wilt, kies dan voor het [opzetten van een boekhouding](/setup).
+Als je liever direct aan de slag wilt, kies dan voor het [opzetten van een boekhouding]({{ site.baseurl}}/setup).
 
 Lees hier over veelvoorkomende handelingen.
 <!-- [See configuration options]({{ site.baseurl }}{% link pages/test.md %}) -->
