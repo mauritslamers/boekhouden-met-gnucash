@@ -111,6 +111,8 @@ en er niets meer staat in het venster "Afstemmen".
 Herhaal de bovenstaande stappen voor elk bedrag van de openingsbalans om een beginsaldo te
 genereren. Alleen "Eigen vermogen" met het bedrag van € 1550 voer je niet in. Dit is namelijk het totaal
 van alle andere invoeren samen (debet en credit).
+Let er bij de rekening "Privé-onttrekkingen" op dat je het bedrag negatief invult, zodat het aan de debet-kant valt
+van de balans.
 
 ### Debiteuren
 De debiteuren van totaal € 800 bestaat uit twee openstaande verkoopfacturen, namelijk klant Hopman voor € 450 en
@@ -164,3 +166,17 @@ Ik ga er van uit dat dat een vergissing moet zijn, dus in de onderstaande afbeel
 
 Verder kun je voor deze betaling de stappen volgen van de pagina ["Bankafschriften verwerken"]({{site.baseurl}}/bankafschriften_verwerken).
 
+## Proefbalans
+Nadat je de openingsbalans hebt ingevoerd, zijn alle bedragen uit het voorbeeld in de proefbalans te zien.
+Open de proefbalans via het menu "Rapporten", de optie "Opbrengsten en kosten" en de suboptie "Proefbalans".
+
+![Weergave proefbalans]({{site.baseurl}}/assets/proefbalans_prefilled.png)
+
+De rapportdatum van de proefbalans kun je aanpassen via "Opties" in de werkbalk onder het tabblad Algemeen.
+
+![Algemene opties van het rapport proefbalans]({{site.baseurl}}/assets/proefbalans_options_general.png)
+
+## Ter afsluiting
+De openingsbalans invoeren is een stap waarvan je veel plezier zulthebben tijdens het gebruik van een boekhoudprogramma.
+Je kent nu de details en de stappen die komen kijken bij het invoeren van de openingsbalans. Bovendien weet je hoe je
+deze beginbalans zelf kunt opstellen.
