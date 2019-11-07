@@ -2,7 +2,7 @@
 layout: page
 title: Betalingsvoorwaarden aanmaken
 permalink: /betalingsvoorwaarden
-parent: Verkoopfacturen maken
+parent: Verkoopfacturen
 nav_order: 2
 ---
 

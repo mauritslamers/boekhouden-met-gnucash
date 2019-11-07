@@ -2,7 +2,7 @@
 layout: page
 title: Verkoopfactuur opslaan of printen
 permalink: /sales_invoice/print_sales_invoice
-parent: Verkoopfacturen maken
+parent: Verkoopfacturen
 nav_order: 5
 ---
 

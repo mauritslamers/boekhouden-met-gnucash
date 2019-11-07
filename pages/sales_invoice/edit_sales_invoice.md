@@ -2,7 +2,7 @@
 layout: page
 title: Geboekte verkoopfactuur bewerken
 permalink: /sales_invoice/edit_sales_invoice
-parent: Verkoopfacturen maken
+parent: Verkoopfacturen
 nav_order: 4
 ---
 

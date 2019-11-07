@@ -2,7 +2,7 @@
 layout: page
 title: Layout van de verkoopfactuur aanpassen
 permalink: /sales_invoice/adjust_invoice_print
-parent: Verkoopfacturen maken
+parent: Verkoopfacturen
 nav_order: 6
 ---
 

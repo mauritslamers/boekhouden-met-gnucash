@@ -12,23 +12,34 @@ nav_order: 0
 
 Welkom bij deze handleiding van GnuCash, een open source computer programma
 waarmee je zelf in staat bent je boekhouding te doen.
+
 Deze handleiding is met name gericht op ZZP-ers in de context van de Nederlandse
 markt. Er wordt ingegaan op hoe je met BTW omgaat en hoe GnuCash je veel handmatig
 rekenwerk uit handen kan nemen, en zelfs je factuuropmaak voor je doet.
 
+
+### Boekhouden? Waarom?
+
+Als dit de eerste keer is dat je iets met boekhouden doet, lees je het beste eerst
+de pagina over [Waarom boekhouden]({{site.baseurl}}/why_bookkeeping).
+Het is goed om daarna de [korte introductie]({{ site.baseurl}}/double_bookkeeping) te lezen over het hoe en waarom van het
+zogeheten dubbele boekhoudsysteem.
+
+### Aan de slag
+Deze handleiding gebruikt een indeling waarmee stapje voor stapje zowel de handelingen zelf als
+de manier waarop je dat met GnuCash worden uitgelegd, en tegelijkertijd je de mogelijkheid geven
+om snel dingen op te zoeken als je je boekhouding al doet in GnuCash.
+
+Als je nog geen boekhouding hebt, of je wilt een boekhouding overzetten in GnuCash, kies dan het [opzetten van een boekhouding]({{ site.baseurl}}/setup).
+
+## Waarom deze handleiding?
+
 Deze handleiding is sterk gebaseerd op de GnuCash handleiding die oorspronkelijk
 gepubliceerd is als blogposts op http://www.accoo.nl/handleiding-gnucash/.
 Die handleiding is heel goed, maar niet altijd even overzichtelijk en helaas al
-wat ouder.
-
-Deze handleiding heeft mede tot doel de inhoud van de Accoo-handleiding te bewaren en
+wat ouder. Deze handleiding heeft mede tot doel de inhoud van de Accoo-handleiding te bewaren en
 bij te werken, en tegelijkertijd deze aan te vullen met praktische zaken.
 
-Als dit de eerste keer is dat je iets met boekhouden doet, of je wil je kennis
-nog eens opfrissen, lees dan de [korte introductie]({{ site.baseurl}}/double_bookkeeping) over het hoe en waarom van het
-zogeheten dubbele boekhoudsysteem.
 
-Als je liever direct aan de slag wilt, kies dan voor het [opzetten van een boekhouding]({{ site.baseurl}}/setup).
-
-Lees hier over veelvoorkomende handelingen.
+<!-- Lees hier over veelvoorkomende handelingen. -->
 <!-- [See configuration options]({{ site.baseurl }}{% link pages/test.md %}) -->

@@ -2,7 +2,7 @@
 layout: page
 title: Openstaande verkoopfacturen
 permalink: /sales_invoice/unpaid_invoices
-parent: Verkoopfacturen maken
+parent: Verkoopfacturen
 nav_order: 7
 ---
 
@@ -25,3 +25,4 @@ Werk eerst de bank bij voordat je dit rapport bekijkt.
 Om de openstaande bedragen per klant te zien, ga je naar menu "Rapporten", submenu "MKB"
 en vervolgens de optie "Ouderdom debiteuren".
 
+TODO: add examples.

@@ -2,7 +2,7 @@
 layout: page
 title: Nieuwe klant
 permalink: /new_customer
-parent: Verkoopfacturen maken
+parent: Verkoopfacturen
 nav_order: 1
 ---
 
