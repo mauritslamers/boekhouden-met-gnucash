@@ -2,7 +2,7 @@
 layout: page
 title: Nieuwe verkoopfactuur maken
 permalink: /sales_invoice/create_sales_invoice
-parent: Verkoopfacturen maken
+parent: Verkoopfacturen
 nav_order: 3
 ---
 

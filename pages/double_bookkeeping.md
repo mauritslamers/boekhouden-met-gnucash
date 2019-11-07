@@ -2,7 +2,7 @@
 layout: page
 title: Dubbel boekhoudsysteem
 permalink: /double_bookkeeping
-nav_order: 1
+nav_order: 2
 ---
 
 ## Dubbel boekhouden
