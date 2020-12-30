@@ -19,7 +19,7 @@ privé-bezit naar je bedrijf overgeheveld. Denk hierbij aan:
 * Gereedschap dat je privé had, ben je voor je bedrijf gaan gebruiken.
 
 Het overbrengen van privé naar zakelijk heeft als voordeel dat de prijs
-afgetrokken wordt van de winst. Over de winst betaal je belasting en als je ]
+afgetrokken wordt van de winst. Over de winst betaal je belasting en als je 
 minder winst hebt hoef je minder belasting te betalen.
 Goederen met een waarde van meer dan € 450 moet je afschrijven.
 
