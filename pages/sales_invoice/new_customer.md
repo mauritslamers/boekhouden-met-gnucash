@@ -47,7 +47,7 @@ Het is in het begin (nog) niet nodig deze gegevens te wijzigen.
 ![Nieuwe klant factuurgegevens]({{site.baseurl}}/assets/new_customer_invoice_properties_dialog.png)
 
 Een kleine uitleg:
-* **Voorwaarden**: hier kun je de standaard verkoopvoorwaarden voor deze klant instellen. Bij [Verkoopvoorwaarden instellen]({{site.baseurl}}/verkoopvoorwaarden) laten we zien hoe dat gaat.
+* **Voorwaarden**: hier kun je de standaard betalingsvoorwaarden voor deze klant instellen. Bij [Verkoopvoorwaarden instellen]({{site.baseurl}}/sales_invoice/betalingsvoorwaarden) hebben we al laten zien hoe dat gaat.
 * **Korting**: Hier kun je de standaard korting invoeren voor deze klant. Je kunt ook per artikel korting opgeven bij het invoeren van de factuur.
 * **Kredietlimiet**: Het maximum bedrag dat deze klant aan openstaande facturen mag hebben.
 * **Inclusief belasting**: Zijn de verkopen voor deze klant inclusief of exclusief BTW? Je kunt dit ook per artikel invoeren op de factuur.
