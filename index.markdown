@@ -17,12 +17,27 @@ _Alvast hartelijk dank!_
 
 ## Boekhouden met GnuCash
 
-Welkom bij deze handleiding van GnuCash, een open source computer programma
+Welkom bij deze handleiding van GnuCash, een open source computerprogramma
 waarmee je zelf in staat bent je boekhouding te doen.
 
 Deze handleiding is met name gericht op ZZP-ers in de context van de Nederlandse
 markt. Er wordt ingegaan op hoe je met BTW omgaat en hoe GnuCash je veel handmatig
 rekenwerk uit handen kan nemen, en zelfs je factuuropmaak voor je doet.
+
+## Factuurstelsel of Kasstelsel
+Voor we verder gaan is het van belang om vast te stellen onder wel BTW-stelsel je valt. 
+Er zijn namelijk twee soorten BTW-stelsels.
+
+Het factuurstelsel voorziet in een systeem waarin je facturen stuurt voor verleende diensten of producten. Je moet dan een administratie bijhouden waarin je meeneemt hoeveel BTW je moet gaan betalen dan wel terugkrijgen. Het maakt in deze situatie niet uit of de klant de factuur al betaald heeft of niet: je bent BTW-betalingsplichtig op het moment dat je de factuur hebt geschreven.
+
+Zo'n stelsel werkt voor veel bedrijven prima, maar voor bedrijven die hoofdzakelijk werken met directe verkoop zoals winkeliers of marktkooplieden is zo'n systeem onwerkbaar. Daarom vallen deze bedrijven onder het zogeheten kasstelsel. Deze bedrijven hoeven alleen de BTW af te rekenen van de producten die ze daarwerkelijk verkocht hebben. 
+
+Voor een aantal soorten bedrijven is het kasstelsel verplicht. Kijk op de website van de Belastingdienst voor meer informatie:
+
+[Belastingdienst: Voor wie geldt het kasstelsel](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_aangifte_doen_en_betalen/bereken_het_bedrag/hoe_berekent_u_het_btw_bedrag/kasstelsel/voor_wie_geldt_het_kasstelsel)
+
+
+Deze handleiding gaat ervan uit dat je valt onder het factuurstelsel.
 
 ### Boekhouden? Waarom?
 
