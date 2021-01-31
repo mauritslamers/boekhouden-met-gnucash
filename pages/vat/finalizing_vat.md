@@ -83,7 +83,7 @@ We leggen nu de boeking vast door te klikken op `Vastleggen`.
 #### Betaling aan of van de Belastingdienst
 
 We openen nu de rekening `190 Tussenrekening BTW` door in het Rekeningen-overzicht erop te dubbelklikken.
-Het saldo van deze rekening is nu gelijk aan het bedrag dat je nog met de Belastingdienst moet afstemmen. Is het saldo negatief, moet je aan de Belastingdienst betalen, en is het saldo positief moet de Belastingdienst jou dat bedrag terugbetalen.
+Het saldo van deze rekening is nu gelijk aan het bedrag dat je nog met de Belastingdienst moet afstemmen. Is het saldo positief, moet je aan de Belastingdienst betalen, en is het saldo negatief moet de Belastingdienst jou dat bedrag terugbetalen.
 
 Je opent in het menu Acties de optie `Boeken`. Je vult nu het bedrag in dat je moet betalen of moet ontvangen. Dat bedrag is gelijk aan het saldo op de `Tussenrekening BTW`, maar dan altijd positief. Dus als het saldo -30 is, vul je 30 in. 
 Vul nu de velden Datum en Omschrijving in.
