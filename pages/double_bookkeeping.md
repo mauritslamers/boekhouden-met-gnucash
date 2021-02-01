@@ -34,7 +34,7 @@ Klanten worden debiteuren genoemd omdat zij ons geld verschuldigd zijn.
 
 ### Crediteuren
 De rekening voor de leveranciers heet **Crediteuren**. Credit is een Latijns woord
-dat naar geloven ook toevertrouwen kan betekenen. Leveranciers hebben geld van ons
+dat naast geloven ook toevertrouwen kan betekenen. Leveranciers hebben geld van ons
 tegoed.
 
 ### Verkoopfacturen
