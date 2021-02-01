@@ -17,7 +17,7 @@ GnuCash maakt elke keer dat de boekhouding wordt opgeslagen een nieuw bestand aa
 een (iets) andere bestandsnaam. Dit is praktisch als je terug wilt gaan naar een vorige versie
 als je bijvoorbeeld een fout hebt gemaakt of per ongeluk iets hebt verwijderd.
 Standaard worden de bestanden 30 dagen bewaard. De bewaartermijn en instellingen voor
-automatisch opslaag vind je onder Windows of Linux onder menu Bewerken, optie Voorkeuren en
+automatisch opslag vind je onder Windows of Linux onder menu Bewerken, optie Voorkeuren en
 onder macOS onder het applicatie-menu en dan optie Voorkeuren. Kies daar voor
 het tabblad Algemeen.
 
