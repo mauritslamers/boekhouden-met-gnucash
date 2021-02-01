@@ -164,7 +164,7 @@ Ik ga er van uit dat dat een vergissing moet zijn, dus in de onderstaande afbeel
 
 ![Invoeren betaling openstaande facturen in Bank]({{site.baseurl}}/assets/bank_verwerking_crediteuren_betaling.png)
 
-Verder kun je voor deze betaling de stappen volgen van de pagina ["Bankafschriften verwerken"]({{site.baseurl}}/bankafschriften_verwerken).
+Verder kun je voor deze betaling de stappen volgen van de pagina ["Bankafschriften verwerken"]({{site.baseurl}}/paying/manual).
 
 ## Proefbalans
 Nadat je de openingsbalans hebt ingevoerd, zijn alle bedragen uit het voorbeeld in de proefbalans te zien.
