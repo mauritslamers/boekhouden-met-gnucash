@@ -49,7 +49,7 @@ De privé-inbreng is totaal € 4860.
 
 Van de waarde van de privé-inbreng maak je een beginbalans.
 De privé-inbreng van € 4860 is hetzelfde als een privé-storting. Een privé-storting
-staat altijd rechts (credit). Alle goederen en de storing op de zakelijke bankrekening
+staat altijd rechts (credit). Alle goederen en de storting op de zakelijke bankrekening
 zijn nu een zakelijk bezit. Bezittingen staan altijd links (debet).
 
 De laptop, printer, bestelbus, mobiele telefoon en het gereedschap vallen in de categorie
