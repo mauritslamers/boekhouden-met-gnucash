@@ -15,7 +15,7 @@ beste om dit met de hand te doen. Je hebt dan alle rekeningen een keer gezien
 en je kunt je een idee gaan vormen over waar deze rekeningen voor dienen.
 
 Als je al vaker zo'n boekhouding hebt gedaan, of je hebt haast,
-kun je dit rekeningschema ook importeren. Ga daarvoor naar [Snel opzetten]({{ site.baseurl}}/quick_setup).
+kun je dit rekeningschema ook importeren. Ga daarvoor naar [Snel opzetten]({{ site.baseurl}}/quick_accounts_setup).
 
 Kies annuleren bij de wizard om het invoeren handmatig te kunnen doen.
 
