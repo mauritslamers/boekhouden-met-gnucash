@@ -74,7 +74,7 @@ We klikken daarvoor eerst op de kolom `Rekening` van deze eerste nieuwe regel. W
 We gaan naar de volgende regel. Je ziet dat GnuCash automatisch de balans van de boeking voor ons uitrekent.
 We kiezen de rekening `186 Schuld omzetbelasting 9%` en vullen wederom in de kolom `Toename` het bedrag in dat we opgegeven hebben. Ook hier zorgen we dat de kolom `Afname` leeg blijft.
 
-We vullen nu de regel in voor de rekening `Vordering omzetbelasting` en we vullen daar het bedrag in dat we als voorbelasting hebben opgegeven, namelijk het volledige afgeronde bedrag. Het maakt daarbij niet uit of er nog iets op de rekening blijft staan of niet, en of je naar boven of naar beneden hebt afgerond.
+We vullen nu de regel in voor de rekening `Vordering omzetbelasting` en we vullen in de kolom `Afname` het bedrag in dat we als voorbelasting hebben opgegeven, namelijk het volledige afgeronde bedrag. Het maakt daarbij niet uit of er nog iets op de rekening blijft staan of niet, en of je naar boven of naar beneden hebt afgerond.
 
 Er blijft nu een verschil over. Dit verschil boeken we naar de rekening `190 Tussenrekening BTW` door die rekening te selecteren voor die regel.
 
