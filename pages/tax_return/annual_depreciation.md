@@ -2,7 +2,7 @@
 layout: page
 title: De jaarlijkse afschrijving
 permalink: /tax_return/annual_depreciation
-parent: BTW aangifte of aangifte omzetbelasting
+parent: Aangifte inkomenstenbelasting
 nav_order: 1
 ---
 
