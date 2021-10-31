@@ -55,7 +55,7 @@ Ga naar het tabblad `Rekeningen` en kies voor Nieuw.
 Vul in:
 - Rekeningnaam: 190 Tussenrekening BTW 
 - Rekeningnummer: 190
-- Rekeningsoort: Vreemd vermogen
+- Rekeningsoort: Activa
 - Hoofdrekening: Nieuwe rekening op hoofdniveau
 
 NB: De Engelse term voor tussenrekening is Suspense Account
