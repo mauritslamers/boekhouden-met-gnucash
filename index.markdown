@@ -25,7 +25,7 @@ markt. Er wordt ingegaan op hoe je met BTW omgaat en hoe GnuCash je veel handmat
 rekenwerk uit handen kan nemen, en zelfs je factuuropmaak voor je doet.
 
 ## Factuurstelsel of Kasstelsel
-Voor we verder gaan is het van belang om vast te stellen onder wel BTW-stelsel je valt. 
+Voor we verder gaan is het van belang om vast te stellen onder welk BTW-stelsel je valt. 
 Er zijn namelijk twee soorten BTW-stelsels.
 
 Het factuurstelsel voorziet in een systeem waarin je facturen stuurt voor verleende diensten of producten. Je moet dan een administratie bijhouden waarin je meeneemt hoeveel BTW je moet gaan betalen dan wel terugkrijgen. Het maakt in deze situatie niet uit of de klant de factuur al betaald heeft of niet: je bent BTW-betalingsplichtig op het moment dat je de factuur hebt geschreven.
