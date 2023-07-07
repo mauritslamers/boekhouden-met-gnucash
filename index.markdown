@@ -8,29 +8,23 @@ permalink: /
 nav_order: 0
 ---
 
-_**Let op:** Deze handleiding is nog onvolledig. Alle op- en aanmerkingen, alswel voorstellen voor verbetering zijn van harte welkom._
-_Gebruik de [GitHub Issues](https://github.com/mauritslamers/boekhouden-met-gnucash/issues) of stuur een pull request!_
-
-_Alvast hartelijk dank!_
-
-<hr>
-
 ## Boekhouden met GnuCash
 
-Welkom bij deze handleiding van GnuCash, een open source computerprogramma
+Welkom bij deze handleiding voor GnuCash, een open source computerprogramma
 waarmee je zelf in staat bent je boekhouding te doen.
 
 Deze handleiding is met name gericht op ZZP-ers in de context van de Nederlandse
 markt. Er wordt ingegaan op hoe je met BTW omgaat en hoe GnuCash je veel handmatig
 rekenwerk uit handen kan nemen, en zelfs je factuuropmaak voor je doet.
+De handleiding is bedoeld als levend werkdocument met daarin beschreven hoe en waarom je bepaalde acties doet. Daarom zijn alle op- en aanmerkingen van harte welkom. Gebruik de [GitHub Issues](https://github.com/mauritslamers/boekhouden-met-gnucash/issues) of stuur een pull request!
 
 ## Factuurstelsel of Kasstelsel
-Voor we verder gaan is het van belang om vast te stellen onder welk BTW-stelsel je valt. 
+Voor we verder gaan is het van belang om vast te stellen onder welk BTW-stelsel je valt.
 Er zijn namelijk twee soorten BTW-stelsels.
 
 Het factuurstelsel voorziet in een systeem waarin je facturen stuurt voor verleende diensten of producten. Je moet dan een administratie bijhouden waarin je meeneemt hoeveel BTW je moet gaan betalen dan wel terugkrijgen. Het maakt in deze situatie niet uit of de klant de factuur al betaald heeft of niet: je bent BTW-betalingsplichtig op het moment dat je de factuur hebt geschreven.
 
-Zo'n stelsel werkt voor veel bedrijven prima, maar voor bedrijven die hoofdzakelijk werken met directe verkoop zoals winkeliers of marktkooplieden is zo'n systeem onwerkbaar. Daarom vallen deze bedrijven onder het zogeheten kasstelsel. Deze bedrijven hoeven alleen de BTW af te rekenen van de producten die ze daarwerkelijk verkocht hebben. 
+Zo'n stelsel werkt voor veel bedrijven prima, maar voor bedrijven die hoofdzakelijk werken met directe verkoop zoals winkeliers of marktkooplieden is zo'n systeem onwerkbaar. Daarom vallen deze bedrijven onder het zogeheten kasstelsel. Deze bedrijven hoeven alleen de BTW af te rekenen van de producten die ze daarwerkelijk verkocht hebben.
 
 Voor een aantal soorten bedrijven is het kasstelsel verplicht. Kijk op de website van de Belastingdienst voor meer informatie:
 
