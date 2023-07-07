@@ -55,6 +55,14 @@ Die handleiding is heel goed, maar niet altijd even overzichtelijk en helaas al
 wat ouder. Deze handleiding heeft mede tot doel de inhoud van de Accoo-handleiding te bewaren en
 bij te werken, en tegelijkertijd deze aan te vullen met praktische zaken.
 
+## Gnucash versies
+
+GnuCash wordt steeds bijgewerkt en dus verschijnen er regelmatig nieuwe versies.
+Dat kan betekenen dat de screenshots die gebruikt worden in deze handleiding er iets anders
+uitzien. De manier van werken binnen GnuCash verandert echter nauwelijks en de handelingen
+die je moet doen dus ook niet. Mocht je toch iets tegenkomen, laat het vooral weten via een
+[GitHub Issue](https://github.com/mauritslamers/boekhouden-met-gnucash/issues) of verbeter het
+zelf door middel van een pull request.
 
 ## Licentie
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.
