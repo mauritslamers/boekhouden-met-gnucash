@@ -36,10 +36,8 @@ We voeren per item het volgende in:
 
 * **Datum**: Factuurdatum
 * **Omschrijving**: Een korte omschrijving van de kosten
-* **Kostenrekening**: Kies een kostenrekening die de Belastingdienst voorschrijft voor dit type kosten. Omdat in deze handleiding de grootboekrekeningen
-  (kostenrekeningen zijn ook grootboekrekeningen) volgens de indeling van de inkomstenbelasting en BTW-aangifte hebben aangemaakt, kunnen we de richtlijnen van de
-  Belastingdienst volgen. Zo zorg je ervoor dat je de gegevens uit je boekhouding eenvoudig kunt overnemen in de belastingaangiftes.
-  In het aangifteprogramma ondernemers, de aangifte van de omzetbelasting en op de website van de Belastingdienst is voor elk type uitgave een duidelijke toelichting beschikbaar.
+* **Kostenrekening**: Kies een kostenrekening die past bij wat de Belastingdienst voorschrijft voor dit type kosten. Er bestaat nogal een verschil in welke kosten wel, gedeeltelijk of helemaal niet aftrekbaar zijn. Het grootboek waarin de kosten worden ondergebracht kan helpen met het zuiver houden van dit onderscheid. Omdat in deze handleiding de grootboekrekeningen (kostenrekeningen zijn ook grootboekrekeningen) volgens de indeling van de inkomstenbelasting en BTW-aangifte hebben aangemaakt, helpen die de richtlijnen van de Belastingdienst te volgen. Zo zorg je ervoor dat je de gegevens uit je boekhouding eenvoudig kunt overnemen in de belastingaangiftes.
+  Op de website van de Belastingdienst is voor elk type uitgave een duidelijke toelichting beschikbaar. Zie [Overzicht mogelijk aftrekbare zakelijke kosten](https://www.belastingdienst.nl/wps/wcm/connect/nl/werk-en-inkomen/content/aftrek-zakelijke-kosten) en het deel over [Winst- en verliesrekening en balans](https://www.belastingdienst.nl/bibliotheek/handboeken/html/boeken/FISIN2023/fiscale_informatie_2023-winst_en_verliesrekening_en_balans.html#top) in het handboek van de Belastingdienst.
 * **Hoeveelheid**: Het aantal producten of stuks dat je hebt afgenomen
 * **Prijs per eenheid**: Prijs per afgenomen product of dienst
 * **Belastbaar**: Dit moet aangevinkt staan indien voor het item BTW is gerekend.
