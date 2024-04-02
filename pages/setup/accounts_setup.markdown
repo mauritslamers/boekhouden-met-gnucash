@@ -57,6 +57,9 @@ deze rekeningsoorten zijn, omdat deze kennis later van pas komt bij het maken va
 * **Kosten**: Rekening waarop kosten bijgehouden kunnen worden
 * **Opbrengsten**: Rekening waarop de opbrengsten / omzet wordt bijgehouden.
 
+De rekeningen krijgen elk een nummer waarmee de soort wordt aangeduid, zie [Wikipedia](https://nl.wikipedia.org/wiki/Rekeningschema) 
+voor meer info.
+
 Ga na het aanmaken van de rekeningen verder met het [invoeren van de BTW-tarieven]({{ site.baseurl}}/vat_tariffs).
 
 ##### Rekeningenoverzicht
