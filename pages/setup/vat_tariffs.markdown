@@ -43,5 +43,5 @@ in het factuuroverzicht.
 Je ziet nu in het BTW-tarieven-dialoogvenster de koppeling tussen het BTW-tarief en de
 bijbehorende grootboekrekening.
 
-![Ingevulde BTW-tarieven](/assets/existing_btw_tariffs.png)
+![Ingevulde BTW-tarieven]({{ site.baseurl}}/assets/existing_btw_tariffs.png)
 
