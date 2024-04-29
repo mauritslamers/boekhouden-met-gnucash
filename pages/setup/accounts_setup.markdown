@@ -94,6 +94,18 @@ Ga na het aanmaken van de rekeningen verder met het [invoeren van de BTW-tarieve
 | 801 Omzet 9% omzetbelasting                      | 801            | Opbrengsten     | Nieuwe rekening op hoofdniveau | Omzet belast met 9% BTW          |
 | 802 Omzet 0% omzetbelasting                      | 802            | Opbrengsten     | Nieuwe rekening op hoofdniveau | Omzet niet belast met BTW        |
 
+##### Gemengde kosten rekening
+Als je verwacht regelmatig kosten te hebben die door de belasting gezien worden als gemengde kosten, kun je het bovenstaande 
+schema aanvullen met een Gemengde kosten-rekening. 
+
+| Rekeningnaam                                     | Rekeningnummer | Rekeningsoort   | Hoofdrekening                  | Omschrijving                     |
+|:-------------------------------------------------|:---------------|:----------------|:-------------------------------|----------------------------------|
+| 485 Gemengde kosten                              | 485            | Kosten          | Nieuwe rekening op hoofdniveau | Gemengde kosten                  |
+
+Bij het invoeren van inkoopfacturen kun je dan deze rekening gebruiken om kosten op te boeken waarvan je bij het invullen van de belastingaangifte slechts een deel van 
+deze kosten als zakelijke kosten mag aftrekken van de winst. In veel gevallen is een verhouding 80/20 gebruikelijk, en een rekening als deze geeft je de mogelijkheid deze 
+splitsing in een keer te doen bij het invullen van de aangifte.
+
 ### Bewerken van grootboekrekeningen
 
 Je kunt de instellingen van een rekening bewerken. Selecteer de rekening die je
