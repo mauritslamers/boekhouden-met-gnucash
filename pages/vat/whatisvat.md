@@ -1,31 +1,30 @@
 ---
 layout: page
-title: De BTW
+title: De btw
 permalink: /vat/whatisvat
-parent: BTW aangifte of aangifte omzetbelasting
+parent: Btw-aangifte of aangifte omzetbelasting
 nav_order: 1
 ---
 
-## De BTW
+## De btw
 
-Bij de btw-aangifte gaat het er om dat een deel van de financiële gegevens van jouw bedrijf worden aangeleverd bij de Belastingdienst.
+Bij de btw-aangifte gaat het erom dat een deel van de financiële gegevens van jouw bedrijf worden aangeleverd bij de Belastingdienst.
 
 De Belastingdienst heeft een website waarop elke ondernemer kan inloggen en eenvoudig zijn cijfers kan invullen. Het belangrijkste is dat je boekhouding klopt, want de gegevens die je gebruikt voor de aangifte omzetbelasting komen rechtstreeks uit jouw boekhouding.
 
-## Btw terug vragen en afdragen
+## Btw terugvragen en afdragen
 
-De btw op zakelijke kosten mag je “aftrekken”. Dit betekent dat je de btw die je aan jouw leverancier hebt mag aftrekken van de btw die je aan de Belastingdienst moet afdragen.
+De btw op zakelijke kosten mag je “aftrekken”. Dit betekent dat je de btw die je aan jouw leverancier hebt betaald mag aftrekken van de btw die je aan de Belastingdienst moet afdragen.
 
-### Voorbeeld 1:  terug vragen
-Je koopt een doos kopieerpapier voor je bedrijf a € 15,75. Kopieerpapier wordt belast met 21% btw dus € 3,31. Je betaalt dan in totaal € 15,75 + € 3,31 = € 19,06 voor de doos kopieerpapier.
+### Voorbeeld 1: terugvragen
+Je koopt een doos kopieerpapier voor je bedrijf à € 15,75. Kopieerpapier wordt belast met 21% btw dus deze is € 3,31. Je betaalt dan in totaal € 15,75 + € 3,31 = € 19,06 voor de doos kopieerpapier.
 Omdat je het kopieerpapier voor je bedrijf gebruikt mag je de € 3,31 btw aftrekken van de btw die je moet betalen in de btw-aangifte.
 
-### Voorbeeld 2: terug vragen
+### Voorbeeld 2: terugvragen
 Voor een klant bouw je een tuinhuis. Je koopt hout waarmee je het thuinhuis gaat bouwen. In totaal kost het hout € 242,00 inclusief 21% btw. Van de € 242 is € 42 btw en € 200 is voor het hout. Ook deze € 42 mag je aftrekken in de btw-aangifte.
 
-### Voorbeeld 3 afdragen 
-Nadat het tuinhuis is gebouwd verstuur je een factuur naar de klant a € 523,33. Dit bedrag bestaat uit € 432,50 omzet en 21% btw a € 90,83. De € 90,83 btw moet worden afgedragen aan de Belastingdienst tijdens de btw-aangifte.
-
+### Voorbeeld 3 afdragen venster
+Nadat het tuinhuis is gebouwd verstuur je een factuur naar de klant à € 523,33. Dit bedrag bestaat uit € 432,50 omzet en 21% btw à € 90,83. De € 90,83 btw moet worden afgedragen aan de Belastingdienst tijdens de btw-aangifte.
 
 ## Belasting over toegevoegde waarde
 Btw is de afkorting van “Belasting over toegevoegde waarde”. Anders gezegd is de btw de belasting op de waarde die een ondernemer toevoegt door wat hij doet als ondernemer. Waarde toevoegen doe je bijvoorbeeld door zelf een uur voor een klant te werken of door een product in te kopen en daarna voor een hogere prijs weer te verkopen.
@@ -56,9 +55,8 @@ Wie zijn eigen boekhouding doet loopt altijd het risico om niet helemaal bij te 
 De Belastingdienst kent een coulancetermijn van 7 dagen (je krijgt wel een “verzuimmededeling”). Meer info op de website van de Belastingdienst.
 
 ## Correctie minder dan € 1.000
-Als je achterstand in het boeken van de facturen per saldo (de btw van alle verkoopfacturen min de btw van alle inkoopfacturen) minder is dan € 1.000 btw, kun je er voor kiezen de onvolledige btw-aangifte toch in te dienen. Bij de volgende aangifte zorg je er voor dat je bij bent en zo corrigeer je dan de achterstand van de vorige aangifte.
+Als je achterstand in het boeken van de facturen per saldo (de btw van alle verkoopfacturen min de btw van alle inkoopfacturen) minder is dan € 1.000 btw, kun je ervoor kiezen de onvolledige btw-aangifte toch in te dienen. Bij de volgende aangifte zorg je ervoor dat je bij bent en zo corrigeer je dan de achterstand van de vorige aangifte.
 
-Met maximum van € 1.000 btw geldt voor het totale bedrag dat je per saldo moet betalen of terug krijgt.
+Het maximum van € 1.000 btw geldt voor het totale bedrag dat je per saldo moet betalen of terugkrijgt.
 
-Kom je er achter dat het verschil toch groter is dan € 1000 btw, dan kun je altijd nog een “Suppletie omzetbelasting” invullen. Je vult je btw-aangifte dan opnieuw in met de juiste gegevens.
-
+Kom je erachter dat het verschil toch groter is dan € 1000 btw, dan kun je altijd nog een “Suppletie omzetbelasting” invullen. Je vult je btw-aangifte dan opnieuw in met de juiste gegevens.
