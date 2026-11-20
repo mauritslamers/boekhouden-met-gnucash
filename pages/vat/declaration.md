@@ -2,7 +2,7 @@
 layout: page
 title: De aangifte
 permalink: /vat/declaration
-parent: BTW aangifte of aangifte omzetbelasting
+parent: Btw-aangifte of aangifte omzetbelasting
 nav_order: 2
 ---
 
