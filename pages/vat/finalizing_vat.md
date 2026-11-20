@@ -2,7 +2,7 @@
 layout: page
 title: Verwerking
 permalink: /vat/finalizing
-parent: BTW aangifte of aangifte omzetbelasting
+parent: Btw-aangifte of aangifte omzetbelasting
 nav_order: 3
 ---
 
