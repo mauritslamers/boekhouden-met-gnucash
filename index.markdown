@@ -6,7 +6,6 @@ layout: page
 title: Welkom
 permalink: /
 nav_order: 0
-last_modified_date: {% last_modified_at %}
 ---
 
 ## Boekhouden met GnuCash
