@@ -120,7 +120,7 @@ Het maakt niet uit of je 21% btw of 9% BTW hebt betaald over je inkopen, je vult
 
 Een bijzonder geval is de laatste BTW-aangifte van het jaar, omdat daar ook een aantal afrekeningen in plaats vinden. We gaan daar in deze handleiding niet verder op in, maar het is wel belangrijk om deze informatie goed door te lezen.
 
-[Belastingdienst: Laatste BTW-aangifte van het jaar](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_aangifte_doen_en_betalen/btw-aangifte-welke-wanneer-en-hoe/laatste_btw_aangifte_van_het_jaar)
+[Belastingdienst: Laatste BTW-aangifte van het jaar](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_aangifte_doen_en_betalen/btw-aangifte-waar-moet-u-aan-denken/laatste-btw-aangifte-van-het-jaar)
 
 ## Verschillen met de handleiding van Accoo
 

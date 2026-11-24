@@ -51,7 +51,7 @@ Als je nog geen boekhouding hebt, of je wilt een boekhouding overzetten in GnuCa
 ## Waarom deze handleiding?
 
 Deze handleiding is sterk gebaseerd op de GnuCash handleiding die oorspronkelijk
-gepubliceerd is als blogposts op http://www.accoo.nl/handleiding-gnucash/.
+gepubliceerd is als blogposts op [accoo.nl](http://web.archive.org/web/20200128173102/http://www.accoo.nl/handleiding-gnucash/) (de originele website is niet meer bereikbaar, daarom een link naar het internetarchief).
 Die handleiding is heel goed, maar niet altijd even overzichtelijk en helaas al
 wat ouder. Deze handleiding heeft mede tot doel de inhoud van de Accoo-handleiding te bewaren en
 bij te werken, en tegelijkertijd deze aan te vullen met praktische zaken.
