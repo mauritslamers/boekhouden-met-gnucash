@@ -35,9 +35,8 @@ Apple iCloud Drive, DropBox, maar ook zelfgehoste oplossingen als NextCloud of e
 NAS in het bedrijfsnetwerk.
 De boekhouding staat dan op je eigen computer, maar wordt ook tegelijkertijd opgeslagen
 op de servers van Google, Microsoft, Apple of DropBox.
-Hou er echter rekening mee dat een boekhouding vaak persoonsgegevens bevat, en daarmee
-onder de GDPR (General Data Protection Regulation) ofwel AVG (Algemene Verordening
-Gegevensbescherming) valt. Kies dus een cloud-provider die aan deze normen voldoet!
+Hou er echter rekening mee dat een boekhouding vaak persoonsgegevens bevat.
+Kies dus een cloud-provider die je vertrouwt met die gegevens.
 
 Overigens mag het gebruik van een cloud-oplossing niet als backup gezien worden,
 dus is het verstandig ook op andere manieren nog een backup te verzorgen.
