@@ -87,7 +87,7 @@ Sluit het tabblad "Belastingfactuur" en volg de instructies bij [Bedrijfsgegeven
 ## Verkoopfactuur verwerken
 Als je tevreden bent over de inhoud van de factuur, klik dan op de knop "&#9662;". Dit toont extra opties die niet op de werkbalk passen.
 
-![uitklap-menu verkoopfactuur]({{site.baseurl}}/assets/arrow_menu_invoice.png)
+![uitklap-menu verkoopfactuur]({{site.baseurl}}/assets/arrowmenu_book_invoice.png)
 
 Kies daar voor de optie "Verkoopfactuur boeken". Je krijgt nu een dialoogvenster.
 

@@ -88,7 +88,7 @@ menu "Acties".
 
 Vink nu de inkomende geldstroom aan. Je ziet nu dat het verschil rechtsonder € 0 geworden is.
 
-![Bedrijfsgebouwen afstemmen met geldstroom]({{site.baseurl}}/assets/bedrijfsgebouwen_geldstroom.png)
+![Afstemmen met geldstroom (voorbeeld met de rekening Machines en installaties)]({{site.baseurl}}/assets/afstemmen_marked.png)
 
 Nu dit beginsaldo klopt en er geen verschil meer is, kies je "Afronden" via het
 menu "Afstemmen" of via het "&#9662;"-menu.
@@ -136,7 +136,7 @@ Dubbelklik op de grootboekrekening "Bank" en voer de ontvangen bedragen in.
 
 ![Bank debiteuren betaling]({{site.baseurl}}/assets/bank_debiteuren_betaling.png)
 
-Verder kun je voor deze ontvangst de stappen volgen van de pagina ["Bankafschriften verwerken"]({{site.baseurl}}/bankafschriften_verwerken).
+Verder kun je voor deze ontvangst de stappen volgen van de pagina ["Betalingen verwerken"]({{site.baseurl}}/paying/).
 
 
 ### Crediteuren

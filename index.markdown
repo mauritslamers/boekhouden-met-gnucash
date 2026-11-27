@@ -6,7 +6,6 @@ layout: page
 title: Welkom
 permalink: /
 nav_order: 0
-last_modified_date: {% last_modified_at %}
 ---
 
 ## Boekhouden met GnuCash
@@ -49,8 +48,8 @@ Als je nog geen boekhouding hebt, of je wilt een boekhouding overzetten in GnuCa
 
 ## Waarom deze handleiding?
 
-Deze handleiding is sterk gebaseerd op de GnuCash-handleiding die oorspronkelijk
-gepubliceerd is als blogposts op http://www.accoo.nl/handleiding-gnucash/.
+Deze handleiding is sterk gebaseerd op de GnuCash handleiding die oorspronkelijk
+gepubliceerd is als blogposts op [accoo.nl](http://web.archive.org/web/20200128173102/http://www.accoo.nl/handleiding-gnucash/) (de originele website is niet meer bereikbaar, daarom een link naar het internetarchief).
 Die handleiding is heel goed, maar niet altijd even overzichtelijk en helaas al
 wat ouder. Deze handleiding heeft mede tot doel de inhoud van de Accoo-handleiding te bewaren en
 bij te werken, en tegelijkertijd deze aan te vullen met praktische zaken.
@@ -66,7 +65,3 @@ zelf door middel van een pull request.
 
 ## Licentie
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.
-
-
-<!-- Lees hier over veelvoorkomende handelingen. -->
-<!-- [See configuration options]({{ site.baseurl }}{% link pages/test.md %}) -->

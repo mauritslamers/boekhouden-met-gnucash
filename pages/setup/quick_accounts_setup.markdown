@@ -17,4 +17,4 @@ Kies vervolgens het menu "Bestand", kies de optie "Importeren" en kies uit de su
 
 Volg de stappen van de wizard en dan staat je rekeningschema klaar.
 
-Ga nu verder met [BTW-tarieven invoeren]({{ site.baseurl}}/setup/vat_tariffs).
+Ga nu verder met [BTW-tarieven invoeren]({{ site.baseurl}}/vat_tariffs/).

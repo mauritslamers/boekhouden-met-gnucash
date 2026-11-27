@@ -23,7 +23,7 @@ Hier vul je het volgende in:
 * **Soort**: dagen
 * **Vervaldagen**: Het aantal dagen waarna de factuur als vervallen wordt weergegeven. Als je kiest voor 30 dagen en de factuur per 1 mei maakt, wordt de factuur
   op 31 mei weergegeven als vervallen. Als de factuur niet voor 31 mei betaald is, komt de factuur dus als openstaand en te laat betaald in het rapport met
-  openstaande verkoopfacturen te staan. Je kunt hier meer over lezen op [Rapport openstaande verkoopfacturen]({{site.baseurl}}/rapport_openstaande_verkoopfacturen).
+  openstaande verkoopfacturen te staan. Je kunt hier meer over lezen op [Openstaande verkoopfacturen]({{site.baseurl}}/sales_invoice/unpaid_invoices).
   Het bepalen van de betalingstermijn kan lastig zijn. Hanteer een termijn die gebruikelijk is binnen jouw branch maar zorg er voor dat je zelf niet in
   betalingsproblemen komt door een te lange termijn af te spreken.
 * **Kortingsdagen**: Dit is optioneel en hoef je dus niet te gebruiken. Je kunt klanten een betalingskorting geven als ze binnen een bepaald aantal dagen betalen.
